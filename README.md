@@ -140,7 +140,7 @@ corporate-actions-dashboard/
 
 ## Background
 
-This project was built during a career development break (October 2025 – March 2026) to apply and demonstrate hands-on analytics skills using real-world financial data scenarios.  
+This project was built to apply and demonstrate hands-on analytics skills using real-world financial data scenarios.  
 The dataset simulates the type of corporate actions data handled professionally at **Intercontinental Exchange (ICE)** and **FactSet Research Systems** — where similar event validation and data analysis was performed at scale.
 
 ---
