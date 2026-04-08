@@ -113,6 +113,9 @@ corporate-actions-dashboard/
     ├── 04_sql_views_workbench.png       # SQL Views created in MySQL Workbench
     ├── 05_pivot_tables_charts.png       # Individual pivot tables and charts
     └── 06_power_query_data_model.png    # Power Query and Data Model setup
+
+📂 Screenshots available in the CA_Screenshots folder for all dashboards and query outputs.
+
 ```
 
 ---
