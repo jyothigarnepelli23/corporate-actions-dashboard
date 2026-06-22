@@ -159,43 +159,43 @@ corporate-actions-dashboard/
 
 ### Excel Dashboard
 
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](screenshots/01_excel_kpi_dashboard.png)
 
 ---
 
 ### SQL Dashboard
 
-![SQL Dashboard](screenshots/sql_dashboard.png)
+![SQL Dashboard](02_excel_sql_dashboard.png)
 
 ---
 
 ### Power BI Executive Overview
 
-![Executive Overview](screenshots/powerbi_executive_overview.png)
+![Executive Overview](03_powerbi_executive_overview.png)
 
 ---
 
 ### Power BI Corporate Actions Analysis
 
-![Corporate Actions Analysis](screenshots/powerbi_analysis.png)
+![Corporate Actions Analysis](04_powerbi_corporate_actions_analysis.png)
 
 ---
 
 ### Power BI Data Quality Dashboard
 
-![Data Quality](screenshots/powerbi_data_quality.png)
+![Data Quality](05_powerbi_data_quality_check.png)
 
 ---
 
 ### Power Query Transformations
 
-![Power Query](screenshots/power_query.png)
+![Power Query](06_powerbi_model_view.png)
 
 ---
 
 ### Data Model
 
-![Data Model](screenshots/data_model.png)
+![Data Model](07_power_query_editor.png)
 
 ---
 
